@@ -1,6 +1,6 @@
 # TimeLock-wallet
 
-**The TimeLock Smart Contract** : is an Ethereum-based contract designed to securely hold Ether (ETH) for a predetermined lock period. It offers a straightforward way for users to deposit ETH, which then becomes withdrawable only after a specified amount of time has passed. This contract is ideal for scenarios requiring time-bound access to funds, such as vesting schedules, savings plans, or simple trust mechanisms
+**The TimeLock Smart Contract** : is an Ethereum-based contract designed to securely hold Ether (ETH) for a predetermined lock period. It offers a straightforward way for users to deposit ETH, which then becomes withdrawable only after a specified amount of time has passed. This contract is ideal for scenarios requiring time-bound access to funds, such as vesting schedules, savings plans, or simple trust mechanisms.
 
 **Features**
 
